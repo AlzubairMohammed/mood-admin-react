@@ -1,0 +1,11 @@
+.icon {
+  font-size: 1.5rem !important;
+  /* margin-top: 0.5rem; */
+  color: var(--main-color);
+}
+
+.icon-backround {
+  height: 3rem;
+  width: 3rem;
+  background-color: var(--second-color);
+}

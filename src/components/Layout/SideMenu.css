@@ -1,0 +1,23 @@
+.side-menu {
+}
+
+.logo {
+  height: 55px;
+  color: var(--main-color);
+}
+
+.link {
+  text-decoration: none;
+  color: var(--third-color);
+}
+
+.side-menu i {
+  color: var(--third-color);
+}
+
+.activeLink {
+  color: var(--second-color);
+}
+.activeIcon {
+  color: var(--main-color) !important;
+}

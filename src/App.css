@@ -1,0 +1,16 @@
+:root {
+  --main-color: #37bdba;
+  --second-color: #b6d5cb;
+  --third-color: rgb(141, 141, 141);
+}
+.App {
+  text-align: center;
+}
+
+.main-color {
+  background-color: var(--main-color) !important;
+}
+
+.bcolor {
+  background-color: #f8f9fe;
+}
